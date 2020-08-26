@@ -1,4 +1,4 @@
-package com.ChinaSoftware.JavaSE.ClassCastTest;
+package com.ChinaSoftware.JavaTest.ClassCastTest;
 
 public class Dog extends Animal {
     public String getName() 

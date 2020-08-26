@@ -1,4 +1,4 @@
-package com.ChinaSoftware.JavaSE.ClassCastTest;
+package com.ChinaSoftware.JavaTest.ClassCastTest;
 
 public class ClassCastTest {
     public static void main(String args[])
